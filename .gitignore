@@ -1,0 +1,39 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+*.log
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings
+*.swp
+*~
+
+# Node
+node_modules/
+dist/
+.npm/
+.cache/
+
+# UniApp
+unpackage/
+dist/build/
+dist/dev/
+
+# Env
+.env
+.env.local
+*.env.local
+application-local.yml
+application-dev.yml
+
+# OS
+.DS_Store
+Thumbs.db
